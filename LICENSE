@@ -1,0 +1,58 @@
+Nordvegr 1030 Source-Available License
+Version 1.0 — 2026
+
+Copyright (c) 2026 SveinT83. All rights reserved.
+
+1. Purpose
+
+The source code, project files, documentation, artwork, models, audio, data and other materials in this repository (the "Project") are made publicly viewable to support transparency, evaluation and contributions to the official Nordvegr 1030 project.
+
+This is not an open-source license and does not grant the rights normally provided by open-source licenses.
+
+2. Permitted use
+
+You may:
+
+- view and inspect the Project;
+- clone or fork the repository only as reasonably necessary to evaluate the Project or prepare contributions to the official Nordvegr 1030 repository;
+- modify your copy solely for the purpose of preparing such contributions;
+- submit contributions through the official contribution process.
+
+3. Prohibited use
+
+Unless you have prior written permission from the copyright holder, you may not:
+
+- copy or reuse Project material in another project;
+- redistribute, republish, mirror, sublicense or sell the Project or substantial portions of it;
+- use the Project or any substantial portion of it commercially;
+- create or distribute derivative products, games, applications, asset packs, datasets, training sets or competing projects based on Project material;
+- remove or alter copyright, attribution or license notices;
+- claim ownership of Project material that you did not create.
+
+The limited permission to clone or fork under Section 2 does not grant permission to redistribute or reuse the Project outside the contribution workflow.
+
+4. Contributions
+
+By intentionally submitting a contribution to the official Nordvegr 1030 project, you represent that you have the right to submit it and that it does not knowingly infringe third-party rights.
+
+You retain copyright in your original contribution. By submitting it, you grant SveinT83 and the official Nordvegr 1030 project a perpetual, worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, modify, adapt, integrate, publish, distribute, sublicense and otherwise exploit that contribution as part of, or in connection with, Nordvegr 1030 and its successors.
+
+You also permit the Project to relicense your contribution together with the Project under future Project licensing terms.
+
+5. Third-party material
+
+Third-party software, assets or data included in the repository remain subject to their respective licenses. Nothing in this license grants rights to third-party material beyond those licenses.
+
+6. No warranty
+
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR CLAIMS, DAMAGES OR OTHER LIABILITY ARISING FROM USE OF OR RELIANCE ON THE PROJECT.
+
+7. Termination
+
+Any permission granted by this license terminates automatically if you breach its terms. Upon termination, you must stop using and distributing any copies made under this license, except where retention is required by law.
+
+8. Separate permission
+
+Additional rights may be granted only by a separate written agreement from the copyright holder.
+
+For contribution rules, see CONTRIBUTING.md.
